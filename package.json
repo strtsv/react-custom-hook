@@ -1,0 +1,30 @@
+{
+  "name": "react-custom-hook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jsusilo/react-custom-hook.git",
+  "author": "jsusilo <enr@bk.ru>",
+  "license": "MIT",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-scripts": "^2.1.5"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
